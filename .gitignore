@@ -1,2 +1,4 @@
 .DS_Store
 P1_Facial_Keypoints/saved_models/*
+__pycache__/
+P1_Facial_Keypoints/__pycache__/*
